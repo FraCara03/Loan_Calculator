@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Loan Calculator/*
+!/Loan Calculator/task/
+/Loan Calculator/task/*
+!/Loan Calculator/task/creditcalc
